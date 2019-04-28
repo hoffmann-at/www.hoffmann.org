@@ -8,7 +8,7 @@ description:
 author: jekyll-revealjs contributors
 
 # The Reveal theme
-reveal_theme: black.css
+reveal_theme: white.css
 
 # The Reveal transition
 reveal_transition: default
